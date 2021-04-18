@@ -113,7 +113,7 @@ python interact_mmi.py --no_cuda --dialogue_model_path path_to_dialogue_model --
 
 在项目根目录下创建data文件夹，将原始训练语料命名为train.txt，存放在该目录下。train.txt的格式如下，每段闲聊之间间隔一行。
 
-![avatar](D:\programming\deep-learning\GPT2-chitchat\image\chitchat_demo.png?lastModify=1618737602)
+![avatar](https://gitee.com/haoxuan98/images/raw/master/img/chitchat_demo.png)
 
 训练模型：
 
